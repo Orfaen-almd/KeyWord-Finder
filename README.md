@@ -1,2 +1,3 @@
-# KeyWord-Finder
-Developed with artificial intelligence, Key-Word Finder allows users to locate keywords in multiple PDF files simultaneously. It scans large volumes of documents accurately and features a simple, user-friendly interface. Although not fully optimized, it’s functional and focuses on PDFs with textual content only.
+Developed with the help of artificial intelligence, Key-Word Finder allows users to locate keywords across multiple PDF files simultaneously. In a simple and perhaps efficient manner, the program scans large volumes of documents, ensuring that all keywords are found accurately without missing any. It features a simple interface that makes it easy to use and navigate.
+
+Although not fully optimized yet (it may experience slowdowns when scanning large books), the program is already fully functional. It can only read text and cannot process scanned files, ensuring that the focus is on PDFs with textual content.
